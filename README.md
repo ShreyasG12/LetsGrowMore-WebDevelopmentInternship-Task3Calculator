@@ -14,7 +14,7 @@ The Calculator is a basic calculator with a graphical user interface developed u
 To get started, you can clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/<YOUR-USERNAME>/lgm-internship-web-development.git
+git clone https://github.com/ShreyasG12/LetsGrowMore-WebDevelopmentInternship-Task3Calculator.git
 ```
 
 ## Prerequisites
